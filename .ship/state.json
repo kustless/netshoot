@@ -1,0 +1,16 @@
+{
+  "v1": {
+    "config": null,
+    "releaseName": "ship",
+    "upstream": "https://raw.githubusercontent.com/nicolaka/netshoot/master/configs/netshoot-calico.yaml",
+    "contentSHA": "20fc38b7b734211dfd5f6e6de82aa99561d5759eeceebac01cf621bc82a09257",
+    "lifecycle": {
+      "stepsCompleted": {
+        "kustomize": true,
+        "kustomize-intro": true,
+        "outro": true,
+        "render": true
+      }
+    }
+  }
+}
